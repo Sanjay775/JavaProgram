@@ -4,7 +4,7 @@ public class Assignment28 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String [] s1=new String[3];
+		String [] s1=new String[-2];
 		s1[0]="sanju";
 		s1[1]="ranju";
 		s1[2]="manju";
